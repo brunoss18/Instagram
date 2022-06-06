@@ -29,6 +29,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Nesse projeto eu tive  o desafio de reconstruir a página inicial de login do Instagram, no qual foi abordado o conceito sobre CSS utilizando Flexbox, e também conceitos de responsividade.                                                                              
 
+## 🔖 Layout
+Acesse o link a seguir para visualizar: https://instagramss18.netlify.app/
 
 
 
